@@ -1,5 +1,5 @@
 # python-api-challenge
-python api homework for CWRU Data Analytics Bootcamp
+Python API Challenge for CWRU Data Analytics Bootcamp
 
 WeatherPy:
 Python code is written to randomly select 500+ cities around the world using the CityPy API.
