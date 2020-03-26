@@ -5,9 +5,13 @@ WeatherPy:
 Python code is written to randomly select 500+ cities around the world using the CityPy API.
 The OpenWeatherMap API is used to look up the weather characteristics for each selected city.
 Scatter plots are created for all cities in the dataset to compare:
+
   -Temperature vs Latitude
+  
   -Humidity vs Latitude
+  
   -Cloudiness vs Latitude
+  
   -Wind Speed vs Latitude
   
 VacationPy:
